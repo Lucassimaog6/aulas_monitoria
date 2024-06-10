@@ -1,0 +1,16 @@
+{
+    "name": "ex01",
+    "version": "1.0.0",
+    "description": "Uma api simples de login e cadastro de usuários",
+    "main": "index.js",
+    "scripts": {
+        "dev": "node src/app.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.19.2"
+    }
+}
